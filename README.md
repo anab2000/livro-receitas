@@ -3,3 +3,4 @@
 Quer aprender a cozinhar? Vem comigo
 
 - Batata frita
+- Batata cozida
